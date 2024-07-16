@@ -5,7 +5,7 @@ The following table lists different components of an ML interview:
 
 | Section  | Interview |
 | ------------- | ------------- |
-| 1 | Coding (general)  |
+| 1 | [Coding (general)](https://github.com/miladpooladsanj/ML-Interviews/tree/main/main/general-coding)  |
 | 2 | [ML Coding](https://github.com/miladpooladsanj/ML-Interviews/tree/main/main/ml-coding)  |
 
 
